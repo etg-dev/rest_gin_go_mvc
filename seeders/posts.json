@@ -1,0 +1,14 @@
+[
+  {
+    "title": "My first post",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit, lorem eget malesuada fermentum, libero lectus ultrices odio, id tristique orci velit eget quam."
+  },
+  {
+    "title": "A second post",
+    "content": "Pellentesque ut felis quis nulla sagittis eleifend. Fusce quis risus velit. Sed blandit auctor erat, sit amet suscipit dolor finibus non."
+  },
+  {
+    "title": "Third time's a charm",
+    "content": "In faucibus justo vel risus pretium, in bibendum nunc viverra. Nunc luctus, elit id euismod malesuada, libero risus tristique ex, ac congue nisi felis in lacus."
+  }
+]
